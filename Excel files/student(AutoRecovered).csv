@@ -1,0 +1,11 @@
+StudentID,Name,Gender,AttendanceRate,StudyHoursPerWeek,PreviousGrade,ParentalSupport,FinalGrade,Total,avg,,round off,if and gate
+1,John,Male,85,15,78,High,80,178,59.33333333,97.999,98,pass
+2,Sarah,Female,90,20,85,Medium,87,195,65,97.999,98,pass
+3,Alex,Male,78,10,65,Low,68,153,51,9,9,fail
+4,Michael,Male,92,25,90,High,92,207,69,97.999,98,pass
+5,Emma,Female,88,10,82,Medium,85,180,60,97.999,98,fail
+6,Olivia,Female,95,30,88,High,90,213,71,97.999,98,pass
+7,Daniel,Male,70,8,60,Low,62,138,46,97.999,98,fail
+8,Sophia,Female,85,17,77,Medium,78,179,59.66666667,97.999,98,pass
+9,James,Male,82,12,70,Low,72,164,54.66666667,97.999,98,fail
+10,Isabella,Female,91,22,86,High,88,199,66.33333333,97.999,98,pass
